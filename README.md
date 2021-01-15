@@ -51,7 +51,7 @@ The above features were used for training the LSTM model including the original 
     * ANN = (-)0.07
     * Multi-variate LSTM = 0.12
 
-*  Predicted monthly variance by the model = 736 units   
+*  Predicted monthly variance by the model = 736 units (Almost 60% reduction in variance)  
 
 ### Built With
 
